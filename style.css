@@ -1,0 +1,17 @@
+html{background: rgb(27,9,121);
+    background: linear-gradient(90deg, rgba(27,9,121,0.66) 35%, rgba(27,9,121,0.6573004201680672) 35%);}
+
+h1{text-align: center;color: red;text-decoration: underline;}
+
+p{font-family: 'Sedgwick Ave Display', cursive;font-size: 123%;}
+
+img{opacity: 45%;}
+
+div{display: flex; align-items: center; justify-content: center;}
+
+table{text-align: center; font-size: 30px;}
+
+table,td {border: 1px solid black;}
+
+img{padding: 30px 30px 30px 30px}
+
